@@ -1,0 +1,9 @@
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Velib\Velib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Velib\Velib\obj\x86\Debug\Velib.Properties.Resources.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Velib\Velib\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Velib\Velib\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Velib\Velib\bin\Debug\Velib.exe
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Velib\Velib\bin\Debug\Velib.pdb
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Velib\Velib\obj\x86\Debug\Velib.exe
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Velib\Velib\obj\x86\Debug\Velib.pdb
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Velib\Velib\obj\x86\Debug\Velib.Form1.resources
